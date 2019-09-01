@@ -5,8 +5,11 @@ random string gen
 lein repl
 
 random-str-gen.strgen=> (random-str-gen)
-"IIDFJJJ"
-
+"CGGkKfLP"
 random-str-gen.strgen=> (random-str-gen)
-"FKFELMOMNJRRUWVS"
+"b"
+random-str-gen.strgen=> (random-str-gen)
+"CJFMGl"
+random-str-gen.strgen=> (random-str-gen)
+"HGGKegIHqoQRNTwQrz"
 ```
